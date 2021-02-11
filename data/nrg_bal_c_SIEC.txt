@@ -1,0 +1,74 @@
+code	libelle
+TOTAL	Total
+C0000X0350-0370	Combustibles fossiles solides
+C0110	Anthracite
+C0121	Charbon à coke
+C0129	Autre charbon bitumineux
+C0210	Charbon sous-bitumineux
+C0220	Lignite
+C0311	Coke de four à coke
+C0312	Coke de gaz
+C0320	Aggloméré
+C0330	Briquettes de lignite
+C0340	Goudron de houille
+C0350-0370	Gaz manufacturés
+C0350	Gaz de four à coke
+C0360	Gaz d'usine à gaz
+C0371	Gaz de haut-fourneau
+C0379	Autres gaz récupérés
+P1000	Tourbe et produits dérivés de la tourbe
+P1100	Tourbe
+P1200	Produits dérivés de la tourbe
+S2000	Schistes bitumineux et sables bitumineux
+G3000	Gaz naturel
+O4000XBIO	Pétrole et produits pétroliers (part de biocarburant non comprise)
+O4100_TOT	Pétrole brut
+O4200	Liquides du gaz naturel
+O4300	Produits d'alimentation des raffineries
+O4400X4410	Additifs et composés oxygénés (part de biocarburant non comprise)
+O4500	Autres hydrocarbures
+O4610	Gaz de raffinerie
+O4620	Éthane
+O4630	Gaz de pétrole liquéfiés
+O4640	Naphta
+O4651	Essence d'aviation
+O4652XR5210B	Essence moteur (part de biocarburant non comprise)
+O4653	Carburéacteur type essence
+O4661XR5230B	Carburéacteur type kérosène (part de biocarburant non comprise)
+O4669	Autre kérosène
+O4671XR5220B	Gazole et carburant diesel (part de biocarburant non comprise)
+O4680	Fioul
+O4691	White spirit et essences industrielles à point de début d'ébullition spécial
+O4692	Lubrifiants
+O4693	Cires de paraffine
+O4694	Coke de pétrole
+O4695	Bitume
+O4699	Autres produits pétroliers n.c.a.
+RA000	Renouvelables et biocarburants
+RA100	Hydraulique
+RA200	Géothermique
+RA300	Éolien
+RA410	Solaire thermique
+RA420	Solaire photovoltaïque
+RA500	Énergie hydrocinétique houlomotrice marémotrice
+RA600	Chaleur ambiante (pompes à chaleur)
+R5110-5150_W6000RI	Biocarburants solides primaires
+R5160	Charbon de bois
+R5210P	Bioessence pure
+R5210B	Bioessence mélangée
+R5220P	Biodiesels purs
+R5220B	Biodiesels mélangés
+R5230P	Biokérosène pur
+R5230B	Biokérosène mélangé
+R5290	Autres biocarburants liquides
+R5300	Biogaz
+W6100	Déchets industriels (non-renouvelables)
+W6210	Déchets municipaux renouvelables
+W6220	Déchets municipaux non-renouvelables
+W6100_6220	Déchets non-renouvelables
+N900H	Chaleur nucléaire
+E7000	Électricité
+H8000	Chaleur
+BIOE	Bioénergie
+FE	Énergie fossile
+

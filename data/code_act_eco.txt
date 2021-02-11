@@ -1,0 +1,22 @@
+A	Agriculture, sylviculture et pêche
+B	Industries extractives
+C	Industrie manufacturière
+C10-C12	Industries alimentaires; fabrication de boissons et de produits à base de tabac
+C13-C15	Fabrication de textiles, industrie de l'habillement, du cuir et de la chaussure
+C16	Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles; fabrication d'articles en vannerie et sparterie
+C17_C18	Industrie du papier et du carton; imprimerie et reproduction d'enregistrements
+C19	Cokéfaction et raffinage
+C20-C22	Fabrication de produits chimiques, pharmaceutiques, caoutchouc et plastiques
+C23	Fabrication d'autres produits minéraux non métalliques
+C24_C25	Métallurgie et fabrication de produits métalliques, à l'exception des machines et des équipements
+C26-C30	Fabrication de produits informatiques, électroniques et optiques, équipement électronique, véhicules automobiles et autre matériel de transport
+C31-C33	Fabrication de meubles, bijouterie, instruments de musique, jouets, réparation et installation de machines et équipements
+D	Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné
+E	Production et distribution d'eau; assainissement, gestion des déchets et dépollution
+E36_E37_E39	Captage, traitement et distribution d'eau; assainissement; dépollution et autres services de gestion des déchets
+E38	Collecte, traitement et élimination des déchets; récupération
+F	Construction
+G-U_X_G4677	Services (sauf commerce de gros en déchets et débris)
+G4677	Commerce de gros de déchets et débris
+EP_HH	Ménages
+TOTAL_HH	Ensemble des activités NACE plus ménages

@@ -1,0 +1,12 @@
+transition énergetique et environnementale
+- schéma db relationnel (ou pas)
+- plusiuers table avec des relations
+- au moins 30 000 lignes
+- accessible en ligne la db (aws azure)
+- Acces a la base de donnée : hébergé en ligne (dbveaver)
+- rendre accessible par groupe de 3
+- utiliser git
+- gestion des environnements et des dépendances/librairies (beautiful soup)
+- Analyse de la données (notebook) individuel = vizualisation
+- Un rendu 
+Définir des thématiques de veilles

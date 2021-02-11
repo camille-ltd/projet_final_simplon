@@ -1,0 +1,44 @@
+code	libelle
+EU27_20	Union européenne - 27 pays (à partir de 2020)
+EU28	Union européenne - 28 pays (2013-2020)
+EA19	Zone euro - 19 pays (à partir de 2015)
+BE	Belgique
+BG	Bulgarie
+CZ	Tchéquie
+DK	Danemark
+DE	Allemagne jusqu'en 1990 ancien territoire de la RFA
+EE	Estonie
+IE	Irlande
+EL	Grèce
+ES	Espagne
+FR	France
+HR	Croatie
+IT	Italie
+CY	Chypre
+LV	Lettonie
+LT	Lituanie
+LU	Luxembourg
+HU	Hongrie
+MT	Malte
+NL	Pays-Bas
+AT	Autriche
+PL	Pologne
+PT	Portugal
+RO	Roumanie
+SI	Slovénie
+SK	Slovaquie
+FI	Finlande
+SE	Suède
+UK	Royaume-Uni
+IS	Islande
+NO	Norvège
+ME	Monténégro
+MK	Macédoine du Nord
+AL	Albanie
+RS	Serbie
+TR	Turquie
+BA	Bosnie-Herzégovine
+XK	Kosovo (selon la résolution 1244/99 du Conseil de sécurité des Nations Unies)
+MD	Moldavie
+UA	Ukraine
+GE	Géorgie

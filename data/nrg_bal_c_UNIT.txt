@@ -1,0 +1,3 @@
+KTOE	Milliers de tonnes équivalent pétrole (TEP)
+GWH	Gigawattheure
+TJ	Térajoule

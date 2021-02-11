@@ -1,0 +1,139 @@
+code	libelle
+PPRD 	Production primaire
+RCV_RCY 	Produits récupérés et recyclés
+IMP 	Importations
+EXP 	Exportations
+STK_CHG 	Variation de stock
+GAE 	Énergie disponible brute
+INTMARB 	Soutages maritimes internationaux
+GIC 	Consommation intérieure brute
+INTAVI 	Aviation internationale
+NRGSUP 	Approvisionnement énergétique total
+GIC2020-2030 	Consommation intérieure brute (Europe 2020-2030)
+PEC2020-2030 	Consommation d'énergie primaire (Europe 2020-2030)
+FEC2020-2030 	Consommation finale d'énergie (Europe 2020-2030)
+TI_E 	Entrées en transformation - usage énergétique
+TI_EHG_E 	Entrées en transformation - production d'électricité et de chaleur - usage énergétique
+TI_EHG_MAPE_E 	Entrées en transformation - production d'électricité et de chaleur - producteur dont l'activité principale est la production d'électricité uniqueme...
+TI_EHG_MAPCHP_E 	Entrées en transformation - production d'électricité et de chaleur - producteur dont l'activité principale est la cogénération de chaleur et d'élec...
+TI_EHG_MAPH_E 	Entrées en transformation - production d'électricité et de chaleur - producteur dont l'activité principale est la production de chaleur uniquement ...
+TI_EHG_APE_E 	Entrées en transformation - production d'électricité et de chaleur - autoproducteur d'électricité uniquement - usage énergétique
+TI_EHG_APCHP_E 	Entrées en transformation - production d'électricité et de chaleur - autoproducteur de chaleur et d'électricité combinées - usage énergétique
+TI_EHG_APH_E 	Entrées en transformation - production d'électricité et de chaleur - autoproducteur de chaleur uniquement - usage énergétique
+TI_EHG_EDHP 	Entrées en transformation - production d'électricité et de chaleur - pompes à chaleur électriques
+TI_EHG_EB 	Entrées en transformation - production d'électricité et de chaleur - chaudières électriques
+TI_EHG_EPS 	Entrées en transformation - production d'électricité et de chaleur - électricité pour le stockage par pompage
+TI_EHG_DHEP 	Entrées en transformation - production d'électricité et de chaleur - chaleur dérivée pour la production d'électricité
+TI_CO_E 	Entrées en transformation - fours à coke - usage énergétique
+TI_BF_E 	Entrées en transformation - hauts-fourneaux - usage énergétique
+TI_GW_E 	Entrées en transformation - usines à gaz - usage énergétique
+TI_RPI_E 	Entrées en transformation - raffineries et industrie pétrochimique - usage énergétique
+TI_RPI_RI_E 	Entrées en transformation - raffineries et industrie pétrochimique - entrées en raffinerie - usage énergétique
+TI_RPI_BPI_E 	Entrées en transformation - raffineries et industrie pétrochimique - retours de l'industrie pétrochimique - usage énergétique
+TI_RPI_PT_E 	Entrées en transformation - raffineries et industrie pétrochimique - produits transférés - usage énergétique
+TI_RPI_IT_E 	Entrées en transformation - raffineries et industrie pétrochimique - transferts entre produits - usage énergétique
+TI_RPI_DU_E 	Entrées en transformation - raffineries et industrie pétrochimique - usage direct - usage énergétique
+TI_RPI_PII_E 	Entrées en transformation - raffineries et industrie pétrochimique - entrées en industrie pétrochimique - usage énergétique
+TI_PF_E 	Entrées en transformation - fabriques d'agglomérés - usage énergétique
+TI_BKBPB_E 	Entrées en transformation - fabriques de briquettes de lignite et briquettes de tourbe - usage énergétique
+TI_CL_E 	Entrées en transformation - usines de liquéfaction du charbon - usage énergétique
+TI_BNG_E 	Entrées en transformation - pour mélange avec du gaz naturel - usage énergétique
+TI_LBB_E 	Entrées en transformation - biocarburants liquides mélangés - usage énergétique
+TI_CPP_E 	Entrées en transformation - usines de production de charbon de bois - usage énergétique
+TI_GTL_E 	Entrées en transformation - usines de liquéfaction du gaz - usage énergétique
+TI_NSP_E 	Entrées en transformation - non spécifiées ailleurs - usage énergétique
+TO 	Sorties de transformation
+TO_EHG 	Sorties de transformation - production d'électricité et de chaleur
+TO_EHG_MAPE 	Sorties de transformation - production d'électricité et de chaleur - producteur dont l'activité principale est la production d'électricité uniquement
+TO_EHG_MAPCHP 	Sorties de transformation - production d'électricité et de chaleur - producteur dont l'activité principale est la cogénération de chaleur et d'élec...
+TO_EHG_MAPH 	Sorties de transformation - production d'électricité et de chaleur - producteur dont l'activité principale est la production de chaleur uniquement
+TO_EHG_APE 	Sorties de transformation - production d'électricité et de chaleur - autoproducteur d'électricité uniquement
+TO_EHG_APCHP 	Sorties de transformation - production d'électricité et de chaleur - autoproducteur de chaleur et d'électricité combinées
+TO_EHG_APH 	Sorties de transformation - production d'électricité et de chaleur - autoproducteur de chaleur uniquement
+TO_EHG_EDHP 	Sorties de transformation - production d'électricité et de chaleur - pompes à chaleur électriques
+TO_EHG_EB 	Sorties de transformation - production d'électricité et de chaleur - chaudières électriques
+TO_EHG_PH 	Sorties de transformation - production d'électricité et de chaleur - pompage
+TO_EHG_OTH 	Sorties de transformation - production d'électricité et de chaleur - autres sources
+TO_CO 	Sorties de transformation - fours à coke
+TO_BF 	Sorties de transformation - hauts-fourneaux
+TO_GW 	Sorties de transformation - usines à gaz
+TO_RPI 	Sorties de transformation - raffineries et industrie pétrochimique
+TO_RPI_RO 	Sorties de transformation - raffineries et industrie pétrochimique - production des raffineries
+TO_RPI_BKFLOW 	Sorties de transformation - raffineries et industrie pétrochimique - retours
+TO_RPI_PT 	Sorties de transformation - raffineries et industrie pétrochimique - produits transférés
+TO_RPI_IT 	Sorties de transformation - raffineries et industrie pétrochimique - transferts entre produits
+TO_RPI_PPR 	Sorties de transformation - raffineries et industrie pétrochimique - produits primaires reçus
+TO_RPI_PIR 	Sorties de transformation - raffineries et industrie pétrochimique - restitutions de la pétrochimie
+TO_PF 	Sorties de transformation - fabriques d'agglomérés
+TO_BKBPB 	Sorties de transformation - fabriques de briquettes de lignite et briquettes de tourbe
+TO_CL 	Sorties de transformation - usines de liquéfaction du charbon
+TO_BNG 	Sorties de transformation - gaz naturel mélangé
+TO_LBB 	Sorties de transformation - biocarburants liquides mélangés
+TO_CPP 	Sorties de transformation - usines de production de charbon de bois
+TO_GTL 	Sorties de transformation - usines de liquéfaction du gaz
+TO_NSP 	Sorties de transformation - non spécifiées ailleurs
+NRG_E 	Secteur de l'énergie - usage énergétique
+NRG_EHG_E 	Secteur de l'énergie - production d'électricité et de chaleur - usage énergétique
+NRG_CM_E 	Secteur de l'énergie - mines de charbon - usage énergétique
+NRG_OIL_NG_E 	Secteur de l'énergie - usines d'extraction de pétrole et de gaz naturel - usage énergétique
+NRG_PF_E 	Secteur de l'énergie - fabriques d'agglomérés - usage énergétique
+NRG_CO_E 	Secteur de l'énergie - fours à coke - usage énergétique
+NRG_BKBPB_E 	Secteur de l'énergie - fabriques de briquettes de lignite et briquettes de tourbe - usage énergétique
+NRG_GW_E 	Secteur de l'énergie - usines à gaz - usage énergétique
+NRG_BF_E 	Secteur de l'énergie - hauts-fourneaux - usage énergétique
+NRG_PR_E 	Secteur de l'énergie - raffineries de pétrole - usage énergétique
+NRG_NI_E 	Secteur de l'énergie - industrie nucléaire - usage énergétique
+NRG_CL_E 	Secteur de l'énergie - usines de liquéfaction du charbon - usage énergétique
+NRG_LNG_E 	Secteur de l'énergie - usines de liquéfaction et regazéification (GNL) - usage énergétique
+NRG_BIOG_E 	Secteur de l'énergie - usines de gazéification de biogaz - usage énergétique
+NRG_GTL_E 	Secteur de l'énergie - usines de liquéfaction du gaz - usage énergétique
+NRG_CPP_E 	Secteur de l'énergie - usines de production de charbon de bois - usage énergétique
+NRG_NSP_E 	Secteur de l'énergie - non spécifié ailleurs - usage énergétique
+DL 	Pertes de distribution
+AFC 	Disponible pour la consommation finale
+FC_NE 	Consommation finale - usage non-énergétique
+TI_NRG_FC_IND_NE 	Entrées en transformation, secteur de l'énergie et consommation finale dans le secteur industriel - usage non-énergétique
+TI_NE 	Entrées en transformation - usage non-énergétique
+NRG_NE 	Secteur de l'énergie - usage non-énergétique
+FC_IND_NE 	Consommation finale - secteur industriel - usage non-énergétique
+FC_TRA_NE 	Consommation finale - secteur des transports - usage non-énergétique
+FC_OTH_NE 	Consommation finale - autres secteurs - usage non-énergétique
+FC_E 	Consommation finale - usage énergétique
+FC_IND_E 	Consommation finale - secteur industriel - usage énergétique
+FC_IND_IS_E 	Consommation finale - secteur industriel - sidérurgie - usage énergétique
+FC_IND_CPC_E 	Consommation finale - secteur industriel - chimie et pétrochimie - usage énergétique
+FC_IND_NFM_E 	Consommation finale - secteur industriel - métaux non-ferreux - usage énergétique
+FC_IND_NMM_E 	Consommation finale - secteur industriel - minéraux non-métalliques - usage énergétique
+FC_IND_TE_E 	Consommation finale - secteur industriel - matériel de transport - usage énergétique
+FC_IND_MAC_E 	Consommation finale - secteur industriel - machines - usage énergétique
+FC_IND_MQ_E 	Consommation finale - secteur industriel - industries extractives - usage énergétique
+FC_IND_FBT_E 	Consommation finale - secteur industriel - produits alimentaires, boissons et tabac - usage énergétique
+FC_IND_PPP_E 	Consommation finale - secteur industriel - papier, pâte à papier et imprimerie - usage énergétique
+FC_IND_WP_E 	Consommation finale - secteur industriel - bois et produits en bois - usage énergétique
+FC_IND_CON_E 	Consommation finale - secteur industriel - construction - usage énergétique
+FC_IND_TL_E 	Consommation finale - secteur industriel - textiles et cuir - usage énergétique
+FC_IND_NSP_E 	Consommation finale - secteur industriel - non spécifié ailleurs - usage énergétique
+FC_TRA_E 	Consommation finale - secteur des transports - usage énergétique
+FC_TRA_RAIL_E 	Consommation finale - secteur des transports - transport ferroviaire - usage énergétique
+FC_TRA_ROAD_E 	Consommation finale - secteur des transports - transport routier - usage énergétique
+FC_TRA_DAVI_E 	Consommation finale - secteur des transports - aviation intérieure - usage énergétique
+FC_TRA_DNAVI_E 	Consommation finale - secteur des transports - navigation intérieure - usage énergétique
+FC_TRA_PIPE_E 	Consommation finale - secteur des transports - transport par conduites - usage énergétique
+FC_TRA_NSP_E 	Consommation finale - secteur des transports - non spécifié ailleurs - usage énergétique
+FC_OTH_E 	Consommation finale - autres secteurs - usage énergétique
+FC_OTH_CP_E 	Consommation finale - autres secteurs - commerce et services publics - usage énergétique
+FC_OTH_HH_E 	Consommation finale - autres secteurs - ménages - usage énergétique
+FC_OTH_AF_E 	Consommation finale - autres secteurs - agriculture et sylviculture - usage énergétique
+FC_OTH_FISH_E 	Consommation finale - autres secteurs - pêche - usage énergétique
+FC_OTH_NSP_E 	Consommation finale - autres secteurs - non spécifié ailleurs - usage énergétique
+STATDIFF 	Écarts statistiques
+GEP 	Production brute d'électricité
+GEP_MAPE 	Production brute d'électricité - producteur dont l'activité principale est la production d'électricité uniquement
+GEP_MAPCHP 	Production brute d'électricité - producteur dont l'activité principale est la cogénération de chaleur et d'électricité
+GEP_APE 	Production brute d'électricité - autoproducteur d'électricité uniquement
+GEP_APCHP 	Production brute d'électricité - autoproducteur de chaleur et d'électricité combinées
+GHP 	Production brute de chaleur
+GHP_MAPCHP 	Production brute de chaleur - producteur dont l'activité principale est la cogénération de chaleur et d'électricité
+GHP_MAPH 	Production brute de chaleur - producteur dont l'activité principale est la production de chaleur uniquement
+GHP_APCHP 	Production brute de chaleur - autoproducteur de chaleur et d'électricité combinées
+GHP_APH 	Production brute de chaleur - autoproducteur de chaleur uniquement 
