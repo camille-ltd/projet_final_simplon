@@ -10,3 +10,4 @@ Outils utilisés :
 - Postgres : création DB et requête 
 - Jupyter notebook : pour la préparation et l'analyse de la donnée 
 - Python et ses bibliothèques 
+- AWS : stockage de la donnée
