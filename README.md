@@ -9,4 +9,4 @@ La base de données doit être composée d’un minimum de 30 000 lignes.
 Outils utilisés :
 - Postgres : création DB et requête 
 - Jupyter notebook : pour la préparation et l'analyse de la donnée 
-- Python et ses bivliothèques 
+- Python et ses bibliothèques 
